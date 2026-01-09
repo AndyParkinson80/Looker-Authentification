@@ -1,0 +1,9 @@
+pandas
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-cloud-resource-manager
+google-cloud-secret-manager
+google-cloud-bigquery
+google-api-python-client
+grpcio
