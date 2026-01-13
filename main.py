@@ -303,6 +303,7 @@ if __name__ == "__main__":
         ("leavers_", "leavers_tag_value", "leavers_dashboard.staff_data", "rls_leavers"),
         ("recruitment_", "recruitment_tag_value", "usa_recruitment_dashboard.main", "rls_usa_recruitment"),
         ("Imperago_Audits_", "Imperago_Audit_tag_value", "Imperago_downloads.Joined", "rls_imperago_audit"),
+        ("termination_", "termination_tag_value", "usa_termination_dashboard.usa_terminations", "rls_usa_termination")
     ]
 
     for prefix, tag_column, table, policy_name in rls_configs:
